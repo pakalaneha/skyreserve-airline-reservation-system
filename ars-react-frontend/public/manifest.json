@@ -1,0 +1,15 @@
+{
+  "short_name": "SkyReserve",
+  "name": "SkyReserve Airline Reservation",
+  "icons": [
+    {
+      "src": "skyreserve-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#12304a",
+  "background_color": "#ffffff"
+}
